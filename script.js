@@ -133,7 +133,3 @@ row.children[3].innerText = katherine.totalVotes;
 row.children[5].innerText = winner;
 
 
-
-
-
-
